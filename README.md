@@ -36,7 +36,6 @@ Full-stack Flask application with secure authentication, relational database des
 ---
 
 📍 Based near Zurich (DE/CH border)  
-📫 Open to project-driven summer internships (12 weeks, full-time)
 
 
 <!--
